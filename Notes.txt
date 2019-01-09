@@ -1,0 +1,10 @@
+Choose number of pendulums
+Define IC's
+	- Drag and drop pendulum nodes
+	- Lock individual IC's(l_1,theta_1,l_2,theta_2,...) with a checkbox
+	- IC menu scales with n
+Colours are interpolated n times through RGB or something
+Nodes are all black? Maybe just a black outline
+Plot(matplotlib)
+	- Real time
+	- Any coordinate(x,y,theta) by any coordinate(x,y,theta)
